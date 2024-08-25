@@ -6,8 +6,7 @@ Describe the solution here.
 
 ## Pre-Merge Checklist
 
-- [ ] Adheres to the [Product Development Coding Standards](https://github.com/prunedge-dev/EDMS/blob/master/standards.md)
-
+- [ ] Adheres to the [Product Development Coding Standards]
 
 ## Testing Steps
 
