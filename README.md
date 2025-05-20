@@ -4,7 +4,7 @@ Describe the problem here.
 ## Solution
 Describe the solution here. 
 
-## Pre-Merge Checklist
+## Pre-Merge Checklist.
 
 - [ ] Adheres to the [Product Development Coding Standards]
 
